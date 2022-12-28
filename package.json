@@ -13,7 +13,7 @@
   "author": "nhontran0147",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^4.1.0"
+    "@tensorflow/tfjs-node": "^1.2.7"
   },
   "node-red": {
     "nodes": {
