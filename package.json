@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nhontran0147",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs-node": "^4.1.0"
   },
